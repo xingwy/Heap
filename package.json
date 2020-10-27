@@ -1,0 +1,23 @@
+{
+  "name": "heap",
+  "version": "1.0.0",
+  "description": "Interface implementation of max/min heap, including heap for ranking",
+  "main": "index.ts",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingwy/Heap.git"
+  },
+  "keywords": [
+    "heap",
+    "rank"
+  ],
+  "author": "xingwy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xingwy/Heap/issues"
+  },
+  "homepage": "https://github.com/xingwy/Heap#readme"
+}
